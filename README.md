@@ -2,7 +2,7 @@
 - 👀 I’m interested in webdev, IoT and Python
 - 🌱 I’m currently learning webdev
 - 💞️ I’m looking to collaborate on web design
-- 📫 You can reach me through my email vinsertale.mao@gmail.com
+- 📫 You can reach me through my email alvin.lester.delacruz@gmail.com
 
 <!---
 LesterDC03/LesterDC03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
